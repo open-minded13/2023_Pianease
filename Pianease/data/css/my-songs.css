@@ -1,0 +1,523 @@
+/* screen - my-songs */
+
+.my-songs {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 40px;
+  height: 834px;
+  padding: 8.5px 13px;
+  width: 1194px;
+}
+
+.my-songs .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-top: 6.5px;
+  min-height: 803px;
+  width: 125px;
+}
+
+.my-songs .logo-group {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 12px;
+  margin-right: -13px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-songs .pian-ease {
+  letter-spacing: 1.00px;
+  line-height: 44px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-songs .overlap-group5 {
+  height: 724px;
+  position: relative;
+  width: 86px;
+}
+
+.my-songs .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 724px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.my-songs .frame-17 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 64px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.my-songs .icon-musical_note {
+  height: 33px;
+  margin-bottom: -0.50px;
+  margin-left: -5.50px;
+  margin-right: -5.50px;
+  margin-top: -0.50px;
+  min-width: 33px;
+  position: relative;
+}
+
+.my-songs .overlap-group-container {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.my-songs .overlap-group-2 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.my-songs .rectangle-563 {
+  border: 2px solid;
+  border-color: var(--mirage-2);
+  border-radius: 3px 0px 3px 3px;
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 9px;
+}
+
+.my-songs .rectangle-564 {
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.my-songs .overlap-group1 {
+  height: 27px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 23px;
+}
+
+.my-songs .rectangle-566 {
+  border: 2px solid;
+  border-color: var(--mirage-2);
+  border-radius: 3px 0px 3px 3px;
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.my-songs .rectangle-567 {
+  border: 2px solid;
+  border-color: var(--mirage-2);
+  border-radius: 3px 0px 3px 3px;
+  height: 9px;
+  left: 14px;
+  position: absolute;
+  top: 15px;
+  width: 9px;
+}
+
+.my-songs .vector-251 {
+  height: 6px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 14px;
+}
+
+.my-songs .rectangle-565 {
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.my-songs .icon-bookmark {
+  height: 36px;
+  margin-bottom: -2.00px;
+  margin-left: -7.00px;
+  margin-right: -7.00px;
+  margin-top: -2.00px;
+  min-width: 36px;
+  position: relative;
+}
+
+.my-songs .icon-settings {
+  height: 32px;
+  margin-left: -5.00px;
+  margin-right: -5.00px;
+  min-width: 32px;
+  position: relative;
+}
+
+.my-songs .overlap-group-3 {
+  height: 33px;
+  position: relative;
+  width: 33px;
+}
+
+.my-songs .ellipse-42 {
+  border: 2px solid;
+  border-color: var(--storm-gray);
+  border-radius: 6.33px;
+  height: 13px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.my-songs .star-2 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.my-songs .frame-176 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 471px;
+  justify-content: center;
+  padding: 72px 32px 16px;
+  position: relative;
+}
+
+.my-songs .log-out-circle {
+  height: 32px;
+  margin-left: -5.00px;
+  margin-right: -5.00px;
+  min-width: 32px;
+  position: relative;
+}
+
+.my-songs .flex-col {
+  flex-direction: column;
+  min-height: 740px;
+  width: 984px;
+}
+
+.my-songs .flex-row {
+  gap: 40px;
+  height: 146px;
+  min-width: 984px;
+}
+
+.my-songs .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  min-height: 146px;
+  width: 523px;
+}
+
+.my-songs .input {
+  background-color: var(--white-lilac);
+  border-radius: 16px;
+  height: 57px;
+  position: relative;
+  width: 523px;
+}
+
+.my-songs .search {
+  height: 24px;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  min-width: 110px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.my-songs .title {
+  height: 56px;
+  letter-spacing: 1.00px;
+  line-height: 56px;
+  white-space: nowrap;
+}
+
+.my-songs .frame-187 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: flex-end;
+  margin-top: 0.5px;
+  position: relative;
+  width: 421px;
+}
+
+.my-songs .button {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--geyser);
+  border-radius: 12px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  padding: 16px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-songs .overlap-group-4 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.my-songs .ellipse-42-1 {
+  border: 2px solid;
+  border-color: var(--santas-gray);
+  border-radius: 5px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.my-songs .star-2-1 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.my-songs .avatar-and-label {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-songs .frame-166 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-songs .pearl-torgrimson {
+letter-spacing: 0.25px;
+    line-height: 22px;
+    margin-top: 12px;
+    position: relative;
+    text-align: right;
+    white-space: nowrap;
+    width: fit-content;
+  }
+
+.my-songs .avatar {
+  align-items: flex-end;
+  display: flex;
+  gap: 4068px;
+  left: 4px;
+  min-width: 48px;
+  position: relative;
+  top: 4px;
+}
+
+.my-songs .radius-mask {
+  height: 48px;
+  margin-bottom: -515px;
+  margin-left: -4116px;
+  width: 48px;
+}
+
+.my-songs .people {
+  height: 48px;
+  width: 48px;
+}
+
+.my-songs .frame-54 {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  border: 1px solid;
+  border-color: var(--geyser);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 168px;
+  left: 0;
+  padding: 15px 20px 27px;
+  position: absolute;
+  top: 0;
+  width: 896px;
+}
+
+.my-songs .level {
+  height: 34px;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 750px;
+}
+
+.my-songs .group-541 {
+  height: 32px;
+  min-width: 750px;
+  position: relative;
+}
+
+.my-songs .frame-541 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 750px;
+}
+
+.my-songs .twinkle-twinkle-little-star {
+  letter-spacing: 0.75px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-songs .group-544 {
+  height: 87px;
+  margin-bottom: -27.00px;
+  min-width: 767px;
+  position: relative;
+}
+
+.my-songs .progress-indicator-gage-charts {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 87px;
+  padding: 13px 1px;
+  width: 767px;
+}
+
+.my-songs .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--athens-gray);
+  border-radius: 6px;
+  display: flex;
+  margin-left: 0.02px;
+  min-width: 743px;
+  padding: 0 0.0px;
+}
+
+.my-songs .frame-223 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.my-songs .percent {
+  height: 21px;
+  letter-spacing: 0.75px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.my-songs .mastered {
+  height: 15px;
+  letter-spacing: 0.25px;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.my-songs .playhead-1 {
+  background-image: url(../img/subtract.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 57px;
+  left: 796px;
+  position: absolute;
+  top: 58px;
+  width: 57px;
+}
+
+.my-songs .overlap-group {
+  border-radius: 12px;
+  height: 168px;
+  margin-top: 26px;
+  position: relative;
+  width: 896px;
+}
+
+.my-songs .let-it-be-the-beatles {
+  letter-spacing: 0.75px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.my-songs .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--athens-gray);
+  border-radius: 6px;
+  display: flex;
+  margin-left: 0.02px;
+  min-width: 743px;
+}
+
+.my-songs .playhead {
+  background-image: url(../img/subtract-1.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 796px;
+  position: absolute;
+  top: 58px;
+  width: 57px;
+}
+
+.my-songs .imagine-john-lennon {
+  letter-spacing: 0.75px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

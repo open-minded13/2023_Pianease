@@ -1,0 +1,285 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,600|Inter:700");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/6401403f934b78349d281da5.640140490cca2c67a24d310d.UdXLsaw.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.search-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 16px;
+    height: 68px;
+    justify-content: flex-start;
+    min-width: 174px;
+    padding: 20px 0;
+    position: relative;
+    top: -5px;
+    left: 25px;
+
+}
+
+.icon-search {
+  align-self: center;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.settings {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.avatar-photo-false-f {
+  height: 56px;
+  min-width: 56px;
+  position: relative;
+}
+
+.rectangle-676 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 163px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-677 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 243px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-678 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 84px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-667 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 1035px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-668 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 957px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-672 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 479px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-673 {
+  background-color: var(--mirage);
+  height: 200px;
+  left: 401px;
+  position: absolute;
+  top: 339px;
+  width: 39px;
+}
+
+.rectangle-661 {
+  background-color: var(--mirage);
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1194px;
+}
+
+.rectangle-680 {
+  background-color: var(--sulu);
+  height: 138px;
+  left: 749px;
+  position: absolute;
+  top: 64px;
+  width: 59px;
+}
+
+.rectangle-682 {
+  background-color: var(--sulu);
+  height: 74px;
+  left: 907px;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.rectangle-681 {
+  background-color: #bce976;
+  height: 138px;
+  left: 353px;
+  position: absolute;
+  top: 170px;
+  width: 59px;
+}
+
+.number {
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 79px;
+}
+
+.c4 {
+  height: 18px;
+  left: 356px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 315px;
+  width: 53px;
+}
+
+.frame {
+  display: flex;
+  position: relative;
+}
+
+.how-many-keys-does-your-piano-have {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+  margin-top: 33px;
+  min-width: 434px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.address {
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  min-height: 37px;
+  text-align: center;
+  width: 143px;
+}
+
+.home-indicator-1 {
+  background-color: var(--black);
+  border-radius: 100px;
+  height: 5px;
+  width: 134px;
+}
+
+.rectangle-651 {
+  background-color: var(--selago);
+  border-radius: 12px;
+  height: 60px;
+  left: 13px;
+  position: absolute;
+  top: 2px;
+  width: 61px;
+}
+
+.overlap-group6 {
+  border-radius: 12px;
+  height: 168px;
+  margin-top: 37px;
+  position: relative;
+  width: 896px;
+}
+
+.rectangle-254 {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 6px;
+  height: 12px;
+  width: 327px;
+}
+
+.rectangle-254-1 {
+  background-color: var(--caribbean-green-pearl);
+  width: 18px;
+}
+
+.rectangle-254-2 {
+  background-color: var(--abbey);
+  width: 12px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-254-3 {
+  border-radius: 6px;
+  height: 12px;
+}
+
+.search-1 {
+  height: 24px;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.image-17 {
+  height: 148px;
+  margin-left: -20px;
+  margin-top: -42.38px;
+  object-fit: cover;
+  width: 99px;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1194, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/sign-in.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="sign-in" />
+    <div class="container-center-horizontal">
+      <form class="sign-in screen" name="form1" action="form1" method="post">
+        <div class="group-557">
+          <div class="music-note">
+            <div class="overlap-group">
+              <div class="rectangle-563"></div>
+              <div class="rectangle-566"></div>
+              <div class="rectangle-567"></div>
+              <img class="vector-251" src="img/vector-251-1.svg" alt="Vector 251" />
+              <img class="rectangle-564" src="img/rectangle-564-1.svg" alt="Rectangle 564" />
+              <img class="rectangle-565" src="img/rectangle-565-1.svg" alt="Rectangle 565" />
+            </div>
+          </div>
+          <h1 class="pian-ease poppins-bold-steel-gray-48px">Pianease</h1>
+        </div>
+        <div class="frame-462 frame">
+          <article class="tabs">
+            <div class="frame-7 frame"><div class="selected">Login</div></div>
+            <img class="line" src="img/line-1.svg" alt="Line" />
+          </article>
+          <article class="tabs-1">
+            <div class="frame-7-1"><div class="unselected">Sign Up</div></div>
+            <img class="line-1" src="img/line@2x.png" alt="Line" />
+          </article>
+        </div>
+        <div class="input">
+          <input
+            class="phone-number poppins-normal-storm-gray-15px"
+            name="phonenumber"
+            placeholder="Username"
+            type="text"
+            required
+          />
+        </div>
+        <div class="input">
+          <input
+            class="phone-number-1 poppins-normal-storm-gray-15px"
+            name="phonenumber"
+            placeholder="Password"
+            type="password"
+          />
+        </div>
+        <a href="javascript:SubmitForm('form1')" class="align-self-flex-end">
+          <div class="button">
+            <a href="getting-started.html" onclick="window.event.stopPropagation()"
+              ><div class="button-1 valign-text-middle poppins-semi-bold-baby-powder-15px">Create Account</div>
+            </a>
+          </div></a
+        >
+        <div class="overlap-group1">
+          <div class="button-2"><div class="button-3 valign-text-middle">I’m having problems</div></div>
+          <img class="group-551" src="img/group-551@3x.png" alt="Group 551" />
+        </div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

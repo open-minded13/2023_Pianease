@@ -1,0 +1,232 @@
+/* screen - getting-started */
+
+.getting-started {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 834px;
+  padding: 24px 210px;
+  width: 1194px;
+}
+
+.getting-started .title {
+  letter-spacing: 1.00px;
+  line-height: 44px;
+  margin-left: 1.0px;
+  margin-top: 125px;
+  min-width: 393px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.getting-started .overlap-group-container {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-top: 62px;
+  min-width: 772px;
+}
+
+.getting-started .group-container {
+  height: 264px;
+  position: relative;
+  width: 244px;
+}
+
+.getting-started .overlap-group {
+  align-items: flex-end;
+  background-color: var(--selago);
+  border-radius: 16px;
+  display: flex;
+  height: 264px;
+  left: 0;
+  min-width: 242px;
+  padding: 38.7px 49.7px;
+  position: absolute;
+  top: 0;
+}
+
+.getting-started .group-547 {
+  height: 105px;
+  left: 83px;
+  position: absolute;
+  top: 56px;
+  width: 76px;
+}
+
+.getting-started .group-container-1 {
+  margin-left: 21px;
+}
+
+.getting-started .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--white-lilac);
+  border-radius: 16px;
+  display: flex;
+  height: 264px;
+  left: 0;
+  min-width: 242px;
+  padding: 38.7px 49px;
+  position: absolute;
+  top: 0;
+}
+
+.getting-started .group-546 {
+  height: 105px;
+  left: 70px;
+  position: absolute;
+  top: 56px;
+  width: 102px;
+}
+
+.getting-started .group-container-2 {
+  margin-left: 23px;
+}
+
+.getting-started .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white-lilac);
+  border-radius: 16px;
+  display: flex;
+  height: 264px;
+  left: 0;
+  min-width: 242px;
+  padding: 38.7px 49.7px;
+  position: absolute;
+  top: 0;
+}
+
+.getting-started .group-548 {
+  height: 105px;
+  left: 58px;
+  position: absolute;
+  top: 56px;
+  width: 127px;
+}
+
+.getting-started .group-553 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 56px;
+  margin-top: 33px;
+  min-width: 364px;
+}
+
+.getting-started .button-1 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--storm-gray);
+  border-radius: 12px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  padding: 16px 24px;
+  position: relative;
+  width: 157px;
+}
+
+.getting-started .button {
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.getting-started .button-2 {
+  align-items: center;
+  background-color: var(--royal-blue);
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  padding: 16px 24px;
+  position: relative;
+  width: 189px;
+}
+
+.getting-started .button-3 {
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.getting-started .group-552 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 17.0px;
+  margin-top: 57px;
+  min-width: 469px;
+}
+
+.getting-started .overlap-group3 {
+  border-radius: 12px;
+  height: 56px;
+  position: relative;
+  width: 469px;
+}
+
+.getting-started .button-4 {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  left: 0;
+  padding: 16px 24px;
+  position: absolute;
+  top: 0;
+  width: 469px;
+}
+
+.getting-started .circle-actions-alert-question {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--mirage-2);
+  border-radius: 9.71px;
+  display: flex;
+  flex-direction: column;
+  left: 290px;
+  min-height: 19px;
+  padding: 1.8px 5.3px;
+  position: absolute;
+  top: 19px;
+  width: 19px;
+}
+
+.getting-started .vector-11 {
+  height: 8px;
+  width: 6px;
+}
+
+.getting-started .vector-12 {
+  height: 2px;
+  margin-left: 1.19px;
+  width: 2px;
+}
+
+.getting-started .home-indicator {
+  align-items: flex-end;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  min-width: 375px;
+  padding: 8px 120px;
+}
+
+.getting-started .group-container-3 {
+  border-radius: 16px;
+  height: 264px;
+  position: relative;
+  width: 242px;
+}

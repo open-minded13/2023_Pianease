@@ -1,4 +1,4 @@
-# Pianease — A Wireless and Interactive Product for Piano Learning | Automatic Gain Control, FFT, C/C++, Arduino, HTML, CSS, JavaScript
+# Pianease — A Wireless and Interactive Product for Piano Learning | FFT, C/C++, Arduino, HTML, CSS, JavaScript
 
 Pianease is a wireless and portable product that helps users learn piano through interactive LED indicators and front-end web pages. This README.md file provides an overview of the project and instructions for setting up the code.
 
@@ -6,7 +6,7 @@ Pianease is a wireless and portable product that helps users learn piano through
 
 - LED indicators that guide users to play piano keys
 - Front-end web pages for interactive learning experience
-- Automatic gain control and fast Fourier transform algorithms for note frequency detection
+- Fast Fourier transform algorithms for note frequency detection
 - Immediate feedback on key accuracy
 
 ## Photos & Video
